@@ -1,0 +1,11 @@
+Follow the Structure for path to Dataset:
+
+Data
+├── Train
+│   ├── AMD
+│   └── Normal
+│   └── Normal
+└── Test
+│   ├── AMD
+│   └── Normal
+│   └── Normal    
